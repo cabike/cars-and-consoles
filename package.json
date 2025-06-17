@@ -2,7 +2,7 @@
   "name": "cars-and-consoles",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/cars-and-consoles",
+  "homepage": "https://cabike.github.io/cars-and-consoles",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d public",
