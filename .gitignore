@@ -1,0 +1,34 @@
+
+# Dependency directories
+node_modules/
+.cache/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Vite/Parcel/React cache
+.vite/
+.parcel-cache/
+
+# Mac-specific
+._*
+
+# Deployment artifacts
+public/gh-pages/
+# Coverage reports
+coverage/
+# IDE specific files
+.idea/
+.vscode/
