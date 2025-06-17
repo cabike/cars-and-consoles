@@ -1,0 +1,14 @@
+{
+  "name": "cars-and-consoles",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://yourusername.github.io/cars-and-consoles",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public",
+    "build": "echo 'Static build complete.'"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
